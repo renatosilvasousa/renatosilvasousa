@@ -1,32 +1,42 @@
 <div align="center">
 
-<img width="100%" src="https://imgur.com/a/gtplVWw"/>
+<img width="1774" height="887" alt="banner-pro" src="https://github.com/user-attachments/assets/558a018b-060a-4139-8f4c-e2661ae41488" />
 
-# < iniciando.jornada() />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=00A3FF&center=true&vCenter=true&width=600&height=70&lines=Renato+Silva+Sousa" />
+
+### < starting.journey() />
+
 
 ```bash
-> Aprendendo hoje.
-> Construindo o amanhã.
-> Transformando dados e código em soluções reais.
+> Learning today.
+> Building tomorrow.
+> Turning data and code into real-world solutions.
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00A3FF&center=true&vCenter=true&width=600&lines=Análise+de+Dados;Cybersecurity;Python+Developer;ADS+Student;Sempre+evoluindo..." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00A3FF&center=true&vCenter=true&width=600&lines=Data+Analysis;Cybersecurity;Python+Developer;ADS+Student;Always+learning..." />
 
 </div>
 
 ---
 
-# 👨‍💻 Sobre mim
+# About Me
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-📊 Focado em Análise de Dados e visualização de dados  
-🔐 Estudando Cybersecurity e boas práticas de segurança  
-💻 Desenvolvendo projetos para ganhar experiência prática  
-⚡ Evoluindo diariamente através de código, disciplina e curiosidade
+I'm a Systems Analysis and Development student passionate about technology, problem-solving, and continuous learning.  
+Currently focused on Data Analysis and Cybersecurity, I enjoy building practical projects that help me improve my skills and gain real-world experience.
+
+### Main Interests
+
+- 📊 Data Analysis & Visualization
+- 🔐 Cybersecurity & Digital Security
+- 🐍 Python Automation
+- 🌐 Web Development
+- ⚙️ Backend Technologies
+
+I believe consistency and curiosity are the foundation of growth, and I'm always looking for new challenges, projects, and opportunities to evolve as a developer.
 
 ---
 
-# 🚀 Tecnologias em estudo
+# Technologies & Tools
 
 <div align="center">
 
@@ -36,19 +46,7 @@
 
 ---
 
-# 📈 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=renatosilvasousa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatosilvasousa&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-
-</div>
-
----
-
-# 🔥 Sequência de commits
+# Contribution Streak
 
 <div align="center">
 
@@ -58,37 +56,39 @@
 
 ---
 
-# 🧠 Objetivos atuais
+# Current Goals
 
 ```python
-class Evolucao:
+class Evolution:
 
     def __init__(self):
-        self.foco = [
+        self.focus = [
+            "Full Stack Development"
             "Python",
             "SQL",
-            "Análise de Dados",
+            "Data Analysis",
             "Cybersecurity",
-            "Projetos Reais"
+            "Real Projects"
         ]
 
-    def evoluir(self):
-        return "1% melhor todos os dias."
+    def improve(self):
+        return "1% better every day."
 ```
 
 ---
 
-# 📌 Projetos em desenvolvimento
+## Current Projects
 
-📊 Dashboards e análise de dados  
-🐍 Automação com Python  
-🔐 Laboratórios de Cybersecurity  
-🌐 Aplicações Web modernas  
-📚 Estudos práticos de SQL e APIs
+- Building front-end applications with HTML, CSS, JavaScript, and React  
+- Practicing programming logic and DOM manipulation  
+- Developing Python exercises and study projects  
+- Creating projects focused on learning and portfolio development  
+- Improving code versioning skills with Git and GitHub  
+- Organizing learning paths and technical documentation on GitHub  
 
 ---
 
-# 🌎 Conecte-se comigo
+# Connect With Me
 
 <div align="center">
 
@@ -106,10 +106,10 @@ class Evolucao:
 
 <div align="center">
 
-## ⚡ Evolução constante
+## ⚡ Constant Evolution
 
 ```txt
-Começando → Desenvolvendo → Analisando → Protegendo
+Starting → Developing → Analyzing → Securing
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,100:007BFF&height=120&section=footer"/>
