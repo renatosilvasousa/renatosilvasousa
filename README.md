@@ -92,8 +92,8 @@ class Evolution:
 
 <div align="center">
 
-<a href="www.linkedin.com/in/renatosilvasousa">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="www.linkedin.com/in/renatosilvasousa" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
 </a>
 
 <a href="mailto:re.silvasousa.ctt@gmail.com">
