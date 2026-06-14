@@ -1,112 +1,65 @@
-<div align="center">
+# Olá, eu sou Renato Silva 👋
 
-<img width="1774" height="887" alt="banner-pro" src="https://github.com/user-attachments/assets/558a018b-060a-4139-8f4c-e2661ae41488" />
+**Desenvolvedor Full Stack em formação | Estudante de Análise e Desenvolvimento de Sistemas**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=00A3FF&center=true&vCenter=true&width=600&height=70&lines=Renato+Silva+Sousa" />
+Desenvolvedor Full Stack em formação, com foco na criação de aplicações web modernas utilizando React, TypeScript e Python. Busco constantemente aprimorar minhas habilidades por meio de projetos práticos, aprendizado contínuo e exploração de novas tecnologias.
 
-### < starting.journey() />
+## Objetivo
 
+Busco oportunidades de estágio e desenvolvimento profissional na área de tecnologia, contribuindo com soluções práticas enquanto continuo evoluindo como desenvolvedor.
 
-```bash
-> Learning today.
-> Building tomorrow.
-> Turning data and code into real-world solutions.
-```
+## Tecnologias
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00A3FF&center=true&vCenter=true&width=600&lines=Data+Analysis;Cybersecurity;Python+Developer;ADS+Student;Always+learning..." />
+### Front-end
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- TypeScript
+- React
+- Tailwind CSS
+- Bootstrap
 
-</div>
+### Back-end
+- Python
+- Flask
+- FastAPI
+- APIs REST
+- SQL
+- MySQL
+- SQLite
 
----
+### Ferramentas
+- Git
+- GitHub
+- VS Code
+- Cursor
+- Vite
+- npm
 
-# About Me
+## Atualmente estudando
 
-I'm a Systems Analysis and Development student passionate about technology, problem-solving, and continuous learning.  
-Currently focused on Data Analysis and Cybersecurity, I enjoy building practical projects that help me improve my skills and gain real-world experience.
+- Desenvolvimento de APIs com Flask e FastAPI
+- Boas práticas de desenvolvimento com TypeScript
+- Estruturas de dados e algoritmos
+- Bancos de dados relacionais
 
-### Main Interests
+## Projetos
 
-- 📊 Data Analysis & Visualization
-- 🔐 Cybersecurity & Digital Security
-- 🐍 Python Automation
-- 🌐 Web Development
-- ⚙️ Backend Technologies
+Alguns dos projetos que desenvolvi estão disponíveis nos meus repositórios e no meu portfólio.
 
-I believe consistency and curiosity are the foundation of growth, and I'm always looking for new challenges, projects, and opportunities to evolve as a developer.
+**Portfólio:** https://renatosilvasousa.github.io/portfolio
 
----
+## Idiomas
 
-# Technologies & Tools
+- Português — Nativo
+- Inglês — Intermediário
 
-<div align="center">
+## Contato
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js,react,tailwind,flask,django,fastapi,mysql,postgresql,git,github,linux,vscode" />
-
-</div>
-
----
-
-# Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=renatosilvasousa&theme=tokyonight&hide_border=true&background=00000000"/>
-
-</div>
-
----
-
-# Current Goals
-
-```python
-class Evolution:
-
-    def __init__(self):
-        self.focus = [
-            "Full Stack Development"
-            "Python",
-            "SQL",
-            "Data Analysis",
-            "Cybersecurity",
-            "Real Projects"
-        ]
-
-    def improve(self):
-        return "1% better every day."
-```
+- LinkedIn: https://linkedin.com/in/renatosilvasousa
+- Portfólio: https://renatosilvasousa.github.io/portfolio
+- E-mail: re.silvasousa.ctt@gmail.com
 
 ---
 
-## Current Projects
-
-- Building front-end applications with HTML, CSS, JavaScript, and React  
-- Practicing programming logic and DOM manipulation  
-- Developing Python exercises and study projects  
-- Creating projects focused on learning and portfolio development  
-- Improving code versioning skills with Git and GitHub  
-- Organizing learning paths and technical documentation on GitHub  
-
----
-
-# Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.icons8.com/?size=50&id=xuvGCOXi8Wyg&format=png&color=000000)](https://www.linkedin.com/in/renatosilvasousa/)
-[![Gmail](https://img.icons8.com/?size=50&id=P7UIlhbpWzZm&format=png&color=000000)](mailto:re.silvasousa.ctt@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-## ⚡ Constant Evolution
-
-```txt
-Starting → Developing → Analyzing → Securing
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,100:007BFF&height=120&section=footer"/>
-
-</div>
+*Acredito que a melhor forma de aprender tecnologia é construindo. Por isso, estou constantemente desenvolvendo projetos para transformar conhecimento em experiência prática.*
