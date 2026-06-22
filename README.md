@@ -26,6 +26,7 @@ Busco oportunidades de estágio e desenvolvimento profissional na área de tecno
 - APIs REST
 - SQL
 - MySQL
+- PostgreSQL
 - SQLite
 
 ### Ferramentas
@@ -33,6 +34,7 @@ Busco oportunidades de estágio e desenvolvimento profissional na área de tecno
 - GitHub
 - VS Code
 - Cursor
+- Claude
 - Vite
 - npm
 
